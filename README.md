@@ -10,3 +10,5 @@ The project uses:
 - Muse Monitor App
 
 The Muse interacts with TouchDesigner via OSC sent via the Muse Monitor App. 
+
+https://coralmanton.com/projects/6822327
